@@ -28,4 +28,9 @@ img {
     top: 90%;
     left: 40%;
 }
-
+.pula{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    position: fixed;
+}
